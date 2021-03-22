@@ -3,5 +3,11 @@
 
 __pycache__/
 
-test.py
+m5out/
 out/
+log/
+
+test.py
+
+*.sh
+!gem5.sh
